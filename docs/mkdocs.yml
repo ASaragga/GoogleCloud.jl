@@ -1,5 +1,5 @@
 site_name:        GoogleCloud.jl
-repo_url:         https://github.com/joshbode/GoogleCloud.jl
+repo_url:         https://github.com/ASaragga/GoogleCloud.jl
 site_description: Google Cloud JSON APIs for Julia
 
 theme: readthedocs
